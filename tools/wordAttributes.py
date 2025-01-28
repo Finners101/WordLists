@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from enum import Flag, auto
 
+# Python 3.7+ dict preserve order. Otherwise use ordered dictionary
 WordAttribuesAbbrev = {
         ''' Using Abbreviations adopted from Cambridge Vocabulary listing.
             Language locale changed to IETF BCP 47 identifiers.
