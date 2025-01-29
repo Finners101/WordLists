@@ -1,192 +1,194 @@
-Afghanistan  
-Albania  
-Algeria  
-Andorra  
-Angola  
-Antigua and Barbuda
-Argentina  
-Armenia  
-Australia  
-Austria  
-Azerbaijan  
-Bahamas  
-Bahrain  
-Bangladesh  
-Barbados  
-Belarus  
-Belgium  
-Belize  
-Benin  
-Bhutan  
-Bolivia  
-Bosnia and Herzegovina
-Botswana  
-Brazil  
-Brunei  
-Bulgaria  
-Burkina Faso  
-Burundi  
-Cabo Verde  
-Cambodia  
-Cameroon  
-Canada  
-Central African Republic 
-Chad  
-Chile  
-China  
-Colombia  
-Comoros  
-Costa Rica  
-Croatia  
-Cuba  
-Cyprus  
-Czech Republic
-Denmark  
-Djibouti  
-Dominica  
-Dominican Republic  
-Ecuador  
-Egypt  
-El Salvador  
-Equatorial Guinea  
-Eritrea  
-Estonia  
-Eswatini
-Ethiopia  
-Fiji  
-Finland  
-France  
-Gabon  
-Gambia  
-Georgia  
-Germany  
-Ghana  
-Greece  
-Grenada  
-Guatemala  
-Guinea  
-Guinea-Bissau  
-Guyana  
-Haiti  
-Honduras  
-Hungary  
-Iceland  
-India  
-Indonesia  
-Iran  
-Iraq  
-Ireland  
-Israel  
-Italy  
-Ivory Coast
-Jamaica  
-Japan  
-Jordan  
-Kazakhstan  
-Kenya  
-Kiribati  
-North Korea
-South Korea
-Kuwait  
-Kyrgyzstan  
-Laos  
-Latvia  
-Lebanon  
-Lesotho  
-Liberia  
-Libya  
-Liechtenstein  
-Lithuania  
-Luxembourg  
-Madagascar  
-Malawi  
-Malaysia  
-Maldives  
-Mali  
-Malta  
-Marshall Islands  
-Mauritania  
-Mauritius  
-Mexico  
-Micronesia
-Moldova  
-Monaco  
-Mongolia  
-Montenegro  
-Morocco  
-Mozambique  
-Myanmar
-Burma
-Namibia  
-Nauru  
-Nepal  
-Netherlands  
-New Zealand  
-Nicaragua  
-Niger  
-Nigeria  
-North Macedonia  
-Norway  
-Oman  
-Pakistan  
-Palau  
-Panama  
-Papua New Guinea  
-Paraguay  
-Peru  
-Philippines  
-Poland  
-Portugal  
-Qatar  
-Romania  
-Russia  
-Rwanda  
-Saint Kitts and Nevis  
-Saint Lucia  
-Saint Vincent and the Grenadines  
-Samoa  
-San Marino  
-São Tomé and Príncipe  
-Saudi Arabia  
-Senegal  
-Serbia  
-Seychelles  
-Sierra Leone  
-Singapore  
-Slovakia  
-Slovenia  
-Solomon Islands  
-Somalia  
-South Africa  
-South Sudan  
-Spain  
-Sri Lanka  
-Sudan  
-Suriname  
-Sweden  
-Switzerland  
-Syria  
-Tajikistan  
-Tanzania  
-Thailand  
-Timor-Leste  
-Togo  
-Tonga  
-Trinidad and Tobago  
-Tunisia  
-Turkey  
-Turkmenistan  
-Tuvalu  
-Uganda  
-Ukraine  
-United Arab Emirates  
-United Kingdom  
-United States  
-Uruguay  
-Uzbekistan  
-Vanuatu  
-Venezuela  
-Vietnam  
-Yemen  
-Zambia  
-Zimbabwe 
+pn:proper nouns
+
+Afghanistan (pn)
+Albania (pn)
+Algeria (pn)
+Andorra (pn)
+Angola (pn)
+Antigua and Barbuda (pn)
+Argentina (pn)
+Armenia (pn)
+Australia (pn)
+Austria (pn)
+Azerbaijan (pn)
+Bahamas (pn)
+Bahrain (pn)
+Bangladesh (pn)
+Barbados (pn)
+Belarus (pn)
+Belgium (pn)
+Belize (pn)
+Benin (pn)
+Bhutan (pn)
+Bolivia (pn)
+Bosnia and Herzegovina (pn)
+Botswana (pn)
+Brazil (pn)
+Brunei (pn)
+Bulgaria (pn)
+Burkina Faso (pn)
+Burundi (pn)
+Cabo Verde (pn)
+Cambodia (pn)
+Cameroon (pn)
+Canada (pn)
+Central African Republic (pn)
+Chad (pn)
+Chile (pn)
+China (pn)
+Colombia (pn)
+Comoros (pn)
+Costa Rica (pn)
+Croatia (pn)
+Cuba (pn)
+Cyprus (pn)
+Czech Republic (pn)
+Denmark (pn)
+Djibouti (pn)
+Dominica (pn)
+Dominican Republic (pn)
+Ecuador (pn)
+Egypt (pn)
+El Salvador (pn) 
+Equatorial Guinea (pn) 
+Eritrea (pn)
+Estonia (pn)
+Eswatini (pn)
+Ethiopia (pn)
+Fiji (pn)
+Finland (pn)
+France (pn)
+Gabon (pn)
+Gambia (pn)
+Georgia (pn)
+Germany (pn)
+Ghana (pn)
+Greece (pn)
+Grenada (pn)
+Guatemala (pn)
+Guinea (pn)
+Guinea-Bissau (pn)
+Guyana (pn)
+Haiti (pn)
+Honduras (pn)
+Hungary (pn)
+Iceland (pn)
+India (pn)
+Indonesia (pn) 
+Iran (pn)
+Iraq (pn)
+Ireland (pn)
+Israel (pn)
+Italy (pn)
+Ivory Coast (pn)
+Jamaica (pn)
+Japan (pn)
+Jordan (pn)
+Kazakhstan (pn)
+Kenya (pn)
+Kiribati (pn)
+North Korea (pn)
+South Korea (pn)
+Kuwait (pn)
+Kyrgyzstan (pn)
+Laos (pn)
+Latvia (pn)
+Lebanon (pn)
+Lesotho (pn)
+Liberia (pn)
+Libya (pn)
+Liechtenstein (pn)
+Lithuania (pn)
+Luxembourg (pn)
+Madagascar (pn)
+Malawi (pn)
+Malaysia (pn)
+Maldives (pn)
+Mali (pn)
+Malta (pn)
+Marshall Islands (pn)
+Mauritania (pn)
+Mauritius (pn)
+Mexico (pn)
+Micronesia (pn)
+Moldova (pn)
+Monaco (pn)
+Mongolia (pn)
+Montenegro (pn)
+Morocco (pn)
+Mozambique (pn)
+Myanmar (pn)
+Burma (pn)
+Namibia (pn)
+Nauru (pn)
+Nepal (pn)
+Netherlands (pn)
+New Zealand (pn)
+Nicaragua (pn)
+Niger (pn)
+Nigeria (pn)
+North Macedonia (pn)
+Norway (pn)
+Oman (pn)
+Pakistan (pn)
+Palau (pn)
+Panama (pn)
+Papua New Guinea (pn)
+Paraguay (pn)
+Peru (pn)
+Philippines (pn)
+Poland (pn)
+Portugal (pn)
+Qatar (pn)
+Romania (pn)
+Russia (pn)
+Rwanda (pn)
+Saint Kitts and Nevis (pn)
+Saint Lucia (pn)
+Saint Vincent and the Grenadines (pn)
+Samoa (pn)
+San Marino (pn)
+São Tomé and Príncipe (pn)
+Saudi Arabia (pn)
+Senegal (pn)
+Serbia (pn)
+Seychelles (pn)
+Sierra Leone (pn)
+Singapore (pn)
+Slovakia (pn)
+Slovenia (pn)
+Solomon Islands (pn)
+Somalia (pn)
+South Africa (pn)
+South Sudan (pn)
+Spain (pn)
+Sri Lanka (pn)
+Sudan (pn)
+Suriname (pn)
+Sweden (pn)
+Switzerland (pn)
+Syria (pn)
+Tajikistan (pn)
+Tanzania (pn)
+Thailand (pn)
+Timor-Leste (pn)
+Togo (pn)
+Tonga (pn)
+Trinidad and Tobago (pn)
+Tunisia (pn)
+Turkey (pn)
+Turkmenistan (pn)
+Tuvalu (pn)
+Uganda (pn)
+Ukraine (pn)
+United Arab Emirates (pn)
+United Kingdom (pn)
+United States (pn)
+Uruguay (pn)
+Uzbekistan (pn)
+Vanuatu (pn)
+Venezuela (pn)
+Vietnam (pn)
+Yemen (pn)
+Zambia (pn)
+Zimbabwe (pn)
